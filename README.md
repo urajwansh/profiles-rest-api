@@ -1,3 +1,3 @@
 # Profiles REST API
 
-Profiles RSET API Course code.
+Profiles REST API code.
